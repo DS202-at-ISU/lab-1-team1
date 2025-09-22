@@ -17,6 +17,7 @@ grading once the due date is passed. Submit a link to your repository on
 Canvas (only one submission per team) to signal to the instructors that
 you are done with your submission.
 
+<<<<<<< HEAD
 David Wang: This is a line from RStudio
 
 12.1 Prerequisites
@@ -40,3 +41,6 @@ Then I realized my issue when I couldn’t find the Git tab, so I instead
 cloned the repository with help of my team members through RStudio
 instead. After I could access the Git tab, I made the RStudio line
 commit and was able to push it to the repository.
+=======
+Prudvik's line: This line is form RStudion
+>>>>>>> d6a8473cd1e2028f97d2a03391d75e7ed5e01627
