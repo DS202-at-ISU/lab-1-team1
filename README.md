@@ -1,4 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/LpHtQdRY)
 
 <!-- README.md is generated from README.Rmd. Please edit the README.Rmd file -->
 
@@ -17,3 +16,27 @@ All submissions to the github repo will be automatically uploaded for
 grading once the due date is passed. Submit a link to your repository on
 Canvas (only one submission per team) to signal to the instructors that
 you are done with your submission.
+
+David Wang: This is a line from RStudio
+
+12.1 Prerequisites
+
+12.2 Make a repo on GitHub
+
+12.3 Clone the test GitHub repository to your computer via RStudio
+
+12.4 Make local changes, save, commit
+
+12.5 Push your local changes online to GitHub
+
+12.6 Confirm the local change propagated to the GitHub remote
+
+Did not delete repo for 12.7
+
+David Notes from Lab: I have had previous experience with git, however I
+am not used to using RStudio; so I cloned it with the terminal rather
+than using the RStudio GUI at first, which caused me a bit of confusion.
+Then I realized my issue when I couldn’t find the Git tab, so I instead
+cloned the repository with help of my team members through RStudio
+instead. After I could access the Git tab, I made the RStudio line
+commit and was able to push it to the repository.
