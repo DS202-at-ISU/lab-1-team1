@@ -17,7 +17,15 @@ grading once the due date is passed. Submit a link to your repository on
 Canvas (only one submission per team) to signal to the instructors that
 you are done with your submission.
 
-<<<<<<< HEAD
+Prudvik Seemakurthi: This line is from Prudvik
+
+This was my first time connecting RStudio to GitHub, and the process was
+quite exciting. I received help from a team member and was able to work
+through some minor issues. However, I ran into a problem while pushing
+files due to a missing personal access token. I referred to the notes in
+Chapter 9, where I learned how to create a personal access token, and
+that helped me resolve the pull error successfully.
+
 David Wang: This is a line from RStudio
 
 12.1 Prerequisites
@@ -41,6 +49,11 @@ Then I realized my issue when I couldn’t find the Git tab, so I instead
 cloned the repository with help of my team members through RStudio
 instead. After I could access the Git tab, I made the RStudio line
 commit and was able to push it to the repository.
-=======
-Prudvik's line: This line is form RStudion
->>>>>>> d6a8473cd1e2028f97d2a03391d75e7ed5e01627
+
+Kelly Arriaza: THis is a line from RStudio
+
+Kelly notes from Lab: I ran into some issues because I did not have
+previous experience with git. I had to restart a few times to be sure
+that I was properly connecting git and RStudio. Once everything was
+properly connected and I had help from my team members, it was more
+simple than I had expected to use the commit and push commands.
